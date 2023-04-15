@@ -100,6 +100,7 @@ td{
 }
 
 input[type="button"]{
+    margin-right: 5px;
     padding-top: 20px;
     padding-bottom: 5px;
     width: 100px;
@@ -109,7 +110,7 @@ input[type="button"]{
     font-size: 20px;
     font-weight: bold;
     cursor: pointer;
-    background-color: #25f121;
+    background-color: #44f121;
     color: aliceblue;
     transition: 0.2s linear;
     border: none;
